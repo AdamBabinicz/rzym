@@ -13,7 +13,7 @@ const Possibility = () => (
         ludzkości.
       </h4>
       <h2 className="gradient__text">
-        Juliusz Cezar <br /> (102/100 p.ne. - 44 p.ne.)
+        Juliusz Cezar <br /> <small>102/100 p.ne. - 44 p.ne.</small>
       </h2>
       <p>
         Historycy szacują, że <b>Juliusz Cezar</b> brał udział w <b>50 </b>
