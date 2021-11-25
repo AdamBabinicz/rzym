@@ -36,9 +36,6 @@ const Footer = () => {
       </div>
       <Modal show={modal} close={Toggle} title="Pierwotne ludy Italii">
         <p>
-          Pierwotne ludy Italii były ludami nieindoeuropejskimi których
-          potomkami byli zapewne Ligurowie, zamieszkujący w VIII w. obszary
-          północno-zachodnie (Nizinę Padańską i rejon podalpejski).
           Indoeuropejczycy pojawili się na Półwyspie Apenińskim w II tysiącleciu
           p.n.e., główną ich grupę stanowili Italikowie, obok nich spotykamy w
           Italii także ludy illiryjskie, do nich można zaliczyć Japygów w

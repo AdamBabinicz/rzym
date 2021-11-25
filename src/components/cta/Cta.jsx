@@ -59,12 +59,6 @@ const CTA = () => {
             Wielkiemu. Wódz marzył o tym niemal obsesyjnie, opłakując to, że w
             konkretnym wieku dokonał mniej, niż jego idol.
           </p>
-          <p>
-            Cezar niesamowicie ubolewał nad swoją łysiną – wydawał majątek na
-            zabiegi upiększające, które jednak nie zahamowały przedwczesnego
-            łysienia. Mężczyzna zaczął nosić wieniec właśnie po to, by
-            przyozdobić czymś pozbawioną włosów głowę.
-          </p>
           <br />
           <p>
             <em>
