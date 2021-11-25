@@ -38,23 +38,24 @@ const Potega = () => {
             <p>VIII. Kalendarz juliański</p>
             <p>IX. Prawo rzymskie</p>
             <p>X. Chirurgia</p>
-
-            <button
-              type="button"
-              onClick={() => Toggle()}
-              onMouseEnter={onHover}
-              onMouseLeave={onHover}
-              primary="true"
-              dark="true"
-              smooth={true}
-              duration={500}
-              spy={true}
-              exact="true"
-              offset={-80}
-            >
-              Więcej
-            </button>
           </div>
+          <button
+            className="btn"
+            type="button"
+            onClick={() => Toggle()}
+            onMouseEnter={onHover}
+            onMouseLeave={onHover}
+            primary="true"
+            dark="true"
+            smooth={true}
+            duration={500}
+            spy={true}
+            exact="true"
+            offset={-80}
+          >
+            Więcej
+          </button>
+
           <Modal show={modal} close={Toggle} title="Chirurgia rzymska">
             <p>
               Już z racji stylu życia, ciągłych wojen, bitew i podbojów,
@@ -72,7 +73,6 @@ const Potega = () => {
               </em>
             </p>
           </Modal>
-
           <div className="gpt3__header-content__people">
             <img src={people} /> <br /> <br />
             <p>
