@@ -22,8 +22,9 @@
 }
 .gpt3__navbar-links_logo img {
   width: 62.56px;
-  height: auto;
+  height: 70px;
   object-fit: cover;
+  margin: 1rem 0;
 }
 .gpt3__navbar-links_container {
   display: flex;
@@ -123,5 +124,8 @@
 
   .gpt3__navbar-menu_container-links-sign {
     display: block;
+  }
+  .gpt3__navbar-links_logo img {
+    width: 50px;
   }
 }
