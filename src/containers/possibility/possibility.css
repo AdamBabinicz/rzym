@@ -44,7 +44,9 @@
   line-height: 45px;
   margin: 1rem 0;
 }
-
+.gpt3__possibility-content h2 small {
+  font-size: 20px;
+}
 .gpt3__possibility-content p {
   color: var(--color-text);
   font-family: var(--font-family);
