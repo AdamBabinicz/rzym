@@ -2,7 +2,6 @@
   width: 100%;
   display: flex;
   justify-content: space-between;
-  flex-direction: row;
 }
 
 .gpt3__features-heading {
@@ -51,7 +50,7 @@
 
 @media screen and (max-width: 550px) {
   .gpt3__features-heading h2 {
-    font-size: 28px;
+    font-size: 18px;
     line-height: 38px;
   }
 }
