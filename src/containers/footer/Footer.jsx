@@ -15,7 +15,7 @@ const Footer = () => {
   return (
     <div className="gpt3__footer section__padding">
       <div className="gpt3__footer-heading">
-        <h1 className="gradient__text">Italia przedrzymska</h1>
+        <h2 className="gradient__text">Italia przedrzymska</h2>
       </div>
 
       <div
