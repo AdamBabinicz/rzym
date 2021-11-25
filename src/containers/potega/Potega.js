@@ -5,6 +5,7 @@ import ai from "../../assets/18.png";
 import Modal from "../../components/Portal/Modal";
 import { Link } from "react-router-dom";
 import { BsFillArrowLeftSquareFill } from "react-icons/bs";
+import ScrollToTop from "../../ScrollToTop";
 
 const Potega = () => {
   const [modal, setModal] = useState(false);
@@ -18,6 +19,7 @@ const Potega = () => {
 
   return (
     <>
+      <ScrollToTop />
       <Link to="/" className="back">
         <BsFillArrowLeftSquareFill />
       </Link>
