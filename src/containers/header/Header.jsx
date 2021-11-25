@@ -67,7 +67,7 @@ const Header = () => {
           </Modal>
         </div>
         <div className="gpt3__header-content__people">
-          <img src={people} />
+          <img src={people} alt="..." />
           <p>
             Cywilizacja rzymska, nazywana też niekiedy grecko-rzymską, razem z
             pochodzącą z Bliskiego Wschodu religią – chrześcijaństwem, stworzyła
@@ -76,7 +76,7 @@ const Header = () => {
         </div>
       </div>
       <div className="gpt3__header-image">
-        <img src={ai} />
+        <img src={ai} alt="...." />
       </div>
     </div>
   );

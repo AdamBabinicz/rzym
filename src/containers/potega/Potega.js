@@ -76,7 +76,7 @@ const Potega = () => {
             </p>
           </Modal>
           <div className="gpt3__header-content__people">
-            <img src={people} /> <br /> <br />
+            <img src={people} alt="..." /> <br /> <br />
             <p>
               Cesarstwo Zachodniorzymskie upadło ponad 1500 lat temu, jednak
               jego dziedzictwo oraz dorobek są cenione po dziś dzień. Rzymianie
@@ -85,7 +85,7 @@ const Potega = () => {
           </div>
         </div>
         <div className="gpt3__header-img">
-          <img src={ai} />
+          <img src={ai} alt="..." />
         </div>
       </div>
     </>
